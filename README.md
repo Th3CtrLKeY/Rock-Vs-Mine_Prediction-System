@@ -1,2 +1,2 @@
 # Rock-Vs-Mine_Prediction-System <br>
-A system to identify if an underwater object is  a rock or a mine.
+A system to identify if an underwater object is  a rock or a mine using logistic regression in Python.
